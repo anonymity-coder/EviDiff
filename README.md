@@ -1,2 +1,2 @@
 # EviDiff
-EviDiff: Text-to-Image Diffusion with Evidential Supervision
+EviDiff: Efficient Multi-Object Composition with Evidential Supervision
