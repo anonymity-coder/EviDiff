@@ -5,7 +5,7 @@ The trained EviDiff models are available at https://huggingface.co/EviDiff
 
 # Rebuttal
 ## 1. Additional qualitative examples
-![image](https://github.com/anonymity-coder/EviDiff/blob/main/additional-results.png)
+![image](https://github.com/anonymity-coder/EviDiff/blob/main/additional-results.jpg)
 
 ## 2. Hyperparameters analysis
 | $\lambda_1$    | 	    OA↑	   | FID(C)↑ | FID(F)↑ | CLIP(C)↑ | FID(F)↑ |
@@ -38,5 +38,6 @@ The trained EviDiff models are available at https://huggingface.co/EviDiff
 |  1e-4      | 	    0.7116     | 20.09   | 55.12   | 0.3241  | 0.3348   |  
 |  1e-5      | 	    0.7088     | 20.38   | 55.65   | 0.3219  | 0.3314   |
 
-
+## 3. Visualization of ablation study
+![image](https://github.com/anonymity-coder/EviDiff/blob/main/additional-results.jpg)
 
