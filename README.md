@@ -5,5 +5,5 @@ The trained EviDiff models are available at https://huggingface.co/EviDiff
 
 # Rebuttal
 ## 1. Additional qualitative examples
-![image](https://github.com/HUANGLIZI/LViT/blob/main/IMG/LViT.png)
+![image](https://github.com/anonymity-coder/EviDiff/additional-results.png)
 
