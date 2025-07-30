@@ -39,5 +39,5 @@ The trained EviDiff models are available at https://huggingface.co/EviDiff
 |  1e-5      | 	    0.7088     | 20.38   | 55.65   | 0.3219  | 0.3314   |
 
 ## 3. Visualization of ablation study
-![image](https://github.com/anonymity-coder/EviDiff/blob/main/additional-results.jpg)
+![image](https://github.com/anonymity-coder/EviDiff/blob/main/abalation.jpg)
 
